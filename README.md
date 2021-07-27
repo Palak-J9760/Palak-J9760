@@ -1,7 +1,7 @@
-### Hi there 👋
+                                                                    ### Hi there 👋
 ✨
 
-**Palak-J9760/Palak-J9760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## My Journey so far.. 🙂👯
 2011-2015 - Earned B. Tech degree in Electronics & Instrumentation with a gold medal 🥇 from Graphic Era University, Dehradun 🌇.

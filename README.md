@@ -17,6 +17,10 @@ I work 🔭 in deep learning, NLP, and computer vision including applications fr
 - (CODS COMAD 2021: 8th ACM IKDD CODS and 26th COMAD) Extracting Tabular data for Question-Answering from Documents [See Publication](https://dl.acm.org/doi/10.1145/3430984.3430992) 
   - In this work, I have build an interactive system QuATab where you can upload a PDF document, and check all the intermediate outputs like table detections within document pages, structure recognition etc. Then within the user panel, you can fire queries to the document and retrieve answers. This system also retrieves the most relevant table from which the answer has been deduced. [Check out QuATab's Demo here](https://youtu.be/FEfnGf9isbc) 
 
+### Teaching Experience
+Got an opportunity to share my knowledge via a lecture in a short-term course (“Data Analytics Tools and Techniques”) organized by NIT Jalandhar.
+![alt text](https://www.nitj.ac.in/nitj_files/links/DATT_Flyer_26297.pdf)
+
 ### 🏚️ Find me here 😃: 
   - 🏢 [LinkedIn](https://www.linkedin.com/in/palak-jain-08153b79/)
   - 📫 [Gmail](palak.9760@gmail.com)

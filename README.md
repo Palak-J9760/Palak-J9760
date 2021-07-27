@@ -1,16 +1,20 @@
 ### Hi there 👋
+✨
 
-<!--
 **Palak-J9760/Palak-J9760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My Journey so far.. 🙂👯
+2011-2015 - Earned B. Tech degree in Electronics & Instrumentation with a gold medal 🥇 from Graphic Era University, Dehradun 🌇.
+2015-2017 - Postgraduated (M. Tech) from IIT Kharagpur 🏫 in multimedia information processing .
+2017-Present: Passionate AI researcher 👩‍🔬 at TCS Research. 
+              - Being part of TCS Retail product Optumera 🌱(an AI-based digital retail merchandising and pricing solution), I have designed deep learning-based solutions for large scale e-Commerce sales forecasting and non Linear, competitive, dynamic pricing optimisation system. 
+              (quick show-off 😺: Project resulted in approximately 4% margin improvement (approx. 3M USD) to the client)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 I work in deep learning, NLP, and computer vision including applications from document analysis like text summarization, extracting tabular data for question-answering, verifying facts from tables.
+
+### 🏚️ Find me here 😃: 
+  - 🏢 [LinkedIn](https://www.linkedin.com/in/palak-jain-08153b79/)
+  - 📫 [Gmail] (palak.9760@gmail.com)
+
+

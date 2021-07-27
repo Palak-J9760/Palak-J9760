@@ -1,6 +1,6 @@
 # Hi there! 😃👋
 
-I am Palak 🙂, an AI Enthusiast & a passionate researcher working at TCS Research, New Delhi, India.
+I am Palak Jain🙂, an AI Enthusiast & a passionate researcher working at TCS Research, New Delhi, India.
 I work 🔭 in deep learning, NLP, and computer vision including applications from document analysis like text summarization, extracting tabular data for question-answering, verifying facts from tables.
 
 ### My Journey so far.. 🙂👯
@@ -16,4 +16,6 @@ I work 🔭 in deep learning, NLP, and computer vision including applications fr
   - 🏢 [LinkedIn](https://www.linkedin.com/in/palak-jain-08153b79/)
   - 📫 [Gmail] (palak.9760@gmail.com)
 
+[![Palak Jain's github stats](https://github-readme-stats.vercel.app/api?username=Palak-J9760&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-J9760)](https://github.com/anuraghazra/github-readme-stats)

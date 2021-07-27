@@ -19,7 +19,9 @@ I work 🔭 in deep learning, NLP, and computer vision including applications fr
 
 ### Teaching Experience
 Got an opportunity to share my knowledge via a lecture in a short-term course (“Data Analytics Tools and Techniques”) organized by NIT Jalandhar.
-![alt text](https://www.nitj.ac.in/nitj_files/links/DATT_Flyer_26297.pdf)
+![alt text](/Palak-J9760/Flyer/NITJ.png)
+
+
 
 ### 🏚️ Find me here 😃: 
   - 🏢 [LinkedIn](https://www.linkedin.com/in/palak-jain-08153b79/)
@@ -31,4 +33,7 @@ Got an opportunity to share my knowledge via a lecture in a short-term course (�
 
 <!--
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
+
+
+(https://github.com/[Palak-J9760]/[Flyer]/blob/[branch]/NITJ.png?raw=true)
 -->
